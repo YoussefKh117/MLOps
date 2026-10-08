@@ -1,0 +1,7 @@
+mlops-env/
+__pycache__/
+*.pyc
+mlruns.db
+artifacts/
+.idea/
+.vscode/
