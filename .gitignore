@@ -5,3 +5,4 @@ mlruns.db
 artifacts/
 .idea/
 .vscode/
+.env
