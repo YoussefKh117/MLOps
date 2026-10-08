@@ -113,7 +113,7 @@ http://127.0.0.1:5000
 
 The following screenshot shows the comparison between the three experiments using MLflow.
 
-![MLflow Experiment Comparison](mlflow-comparison.png)
+<img width="1600" height="751" alt="Image" src="https://github.com/user-attachments/assets/af016d97-ce14-486c-911f-095a3e1d1901" />
 
 ---
 
